@@ -1,4 +1,4 @@
-# Laboratorio 14: hipervisor mínimo con KVM
+# Laboratorio 13: hipervisor mínimo con KVM
 
 En este laboratorio implementará una máquina virtual mínima mediante KVM en Linux x86_64. El objetivo es comprender cómo el programa anfitrión configura y ejecuta un invitado, y cómo atiende sus operaciones de entrada/salida y su detención. El archivo [`hypervisor.c`](hypervisor.c) contiene el programa presentado en la guía del laboratorio en LaTeX.
 
